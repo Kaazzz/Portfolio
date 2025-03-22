@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💻 Developer Portfolio
 
-## Getting Started
+Welcome to my developer portfolio! This repository showcases my projects, skills, and experience in software development, robotics, and research. 🚀
 
-First, run the development server:
+## 🏗️ About
+I am a **BS Computer Science student** passionate about **web development ,embedded systems, AI, and research**. I love building innovative solutions, from IoT systems to web applications that solve real-world problems.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tech Stack
+- **Programming Languages:** Python, JavaScript, C/C++, Java
+- **Web Development:** Django, React, Tailwind CSS
+- **Embedded Systems:** Arduino, Raspberry Pi, ESP32
+- **Data Science & AI:** Pandas, NumPy, OpenCV, TensorFlow
+- **Tools & Platforms:** Git, Docker, Notion, Firebase
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Featured Projects
+### 📌 Study Hive
+A **Django-based web app** designed to help students find and manage study groups. Features include real-time chat, scheduling, and academic collaboration tools.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔗 [Repository]()
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📌 Sign Language Translator
+A **machine learning-powered system** that translates hand signs into text using OpenCV and TensorFlow.
 
-## Learn More
+🔗 [Repository]()
 
-To learn more about Next.js, take a look at the following resources:
+### 📌 xxxxxxxx
+An **xxxxxx** that xxxxxx
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🔗 [Repository]()
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📖 Project Description
+This portfolio serves as a collection of my work in **software development, IoT, and AI research**. It highlights my ability to design and implement **innovative, real-world solutions** using various technologies. The projects included showcase my expertise in **web applications, embedded systems, and machine learning**, demonstrating my passion for problem-solving and continuous learning.
 
-## Deploy on Vercel
+## 📬 Contact
+- 📧 Email: zakfloreta20@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/zkflrta/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+⭐ Feel free to fork, contribute, or reach out for collaboration!
